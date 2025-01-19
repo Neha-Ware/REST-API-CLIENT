@@ -19,7 +19,11 @@ application that needs to access or manipulate data.
 
 **OUTPUT**
 Weather Data:
+<br>
 City: London
+<br>
 Temperature: 280.32K
+<br>
 Humidity: 81%
+<br>
 Description: clear sky
